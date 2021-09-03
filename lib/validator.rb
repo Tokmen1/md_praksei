@@ -73,7 +73,7 @@ class Validator
 	    return "Sudoku ir nederīgs."
         end
     end
-
+ 
     if full_sudoku == "FALSE"
 	return "Sudoku ir derīgs, bet nepabeigts."
     else
